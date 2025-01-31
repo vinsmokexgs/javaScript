@@ -76,4 +76,3 @@
 // const array = arr => arr.filter(num=> num>=10)
 // console.log(array([1, 4, 7, 16, 10]));
 
-hgcvmhgcmhgcgf
