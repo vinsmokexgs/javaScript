@@ -75,3 +75,5 @@
 // 16.Write an arrow function that filters out numbers greater than 10 from an array.
 // const array = arr => arr.filter(num=> num>=10)
 // console.log(array([1, 4, 7, 16, 10]));
+
+hgcvmhgcmhgcgf
